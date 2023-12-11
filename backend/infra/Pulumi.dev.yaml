@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  spacelift:appPath: ./app
+  spacelift:containerPort: "80"
+  spacelift:cpu: "1"
+  spacelift:memory: "2"
